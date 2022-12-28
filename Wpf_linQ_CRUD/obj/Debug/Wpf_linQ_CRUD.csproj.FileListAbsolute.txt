@@ -1,0 +1,16 @@
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\bin\Debug\Wpf_linQ_CRUD.exe.config
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\bin\Debug\Wpf_linQ_CRUD.exe
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\bin\Debug\Wpf_linQ_CRUD.pdb
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\App.g.cs
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD_MarkupCompile.cache
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD_MarkupCompile.lref
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\MainWindow.baml
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.g.resources
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.Properties.Resources.resources
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.csproj.GenerateResource.cache
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.exe
+C:\Users\Sam\source\repos\Wpf_linQ_CRUD\Wpf_linQ_CRUD\obj\Debug\Wpf_linQ_CRUD.pdb
